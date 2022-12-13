@@ -24,8 +24,8 @@ bool snt(int n )
 int main()
 {
     int n;
-    freopen("bai3.inp","r",stdin);
-    freopen("bai3.out","w",stdout);
+    //freopen("bai3.inp","r",stdin);
+    //freopen("bai3.out","w",stdout);
     cin>>n;
     for(int i=1;i<=n;i++)
         cin>>a[i];
